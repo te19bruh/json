@@ -1,0 +1,25 @@
+{
+    "people": [
+        {
+            "firstname": "Calle",
+            "lastname": "England",
+            "discord": "Calle#4643"
+        },
+        {
+            "firstname": "Solaf",
+            "lastname": "Mememaster",
+            "discord": "Solaf#7852"
+        },
+        {
+            "firstname": "Adam",
+            "lastname": "Man#1",
+            "discord": "AdamDiscord#1337"
+        },
+        {
+            "firstname": "Eva",
+            "lastname": "Kvinna#1",
+            "discord": "EvaDiscord#1337"
+
+        }
+    ]
+}

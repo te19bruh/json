@@ -1,0 +1,16 @@
+{
+    "bots": [
+        {
+            "name": "Calle",
+            "token": "insert token"
+        },
+        {
+            "name": "Solaf",
+            "token": "insert token"
+        },
+        {
+            "name": "Test",
+            "token": "insert token"
+        }
+    ]
+}
