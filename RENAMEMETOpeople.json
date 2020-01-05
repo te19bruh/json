@@ -3,21 +3,25 @@
         {
             "firstname": "Calle",
             "lastname": "England",
+            "fullname": "Calle England"
             "discord": "Calle#4643"
         },
         {
             "firstname": "Solaf",
             "lastname": "Mememaster",
+            "fullname": "Solaf Mememaster"
             "discord": "Solaf#7852"
         },
         {
             "firstname": "Adam",
-            "lastname": "Man#1",
+            "lastname": "Man",
+            "fullname": "Adam Gudsson"
             "discord": "AdamDiscord#1337"
         },
         {
             "firstname": "Eva",
-            "lastname": "Kvinna#1",
+            "lastname": "Kvinna",
+            "fullname": "Eva Gudsdottir"
             "discord": "EvaDiscord#1337"
 
         }
